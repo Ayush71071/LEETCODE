@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ayush71071/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayush71071/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Ayush71071/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/Ayush71071/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush71071/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ayush71071/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Ayush71071/LEETCODE/tree/master/0070-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush71071/LEETCODE/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ayush71071/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
