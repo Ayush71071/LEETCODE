@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush71071/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayush71071/LEETCODE/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/Ayush71071/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush71071/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush71071/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ayush71071/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Ayush71071/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ayush71071/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush71071/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
 | ------- |
