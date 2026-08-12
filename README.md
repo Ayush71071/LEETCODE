@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ayush71071/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush71071/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayush71071/LEETCODE/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Ayush71071/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/Ayush71071/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush71071/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush71071/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ayush71071/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ayush71071/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayush71071/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Ayush71071/LEETCODE/tree/master/0041-first-missing-positive) |
 ## Database
 |  |
 | ------- |
