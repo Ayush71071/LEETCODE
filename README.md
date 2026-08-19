@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush71071/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayush71071/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Ayush71071/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Ayush71071/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayush71071/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayush71071/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Ayush71071/LEETCODE/tree/master/0041-first-missing-positive) |
+| [1386-cinema-seat-allocation](https://github.com/Ayush71071/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## Database
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ayush71071/LEETCODE/tree/master/0029-divide-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/Ayush71071/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## String Matching
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush71071/LEETCODE/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/Ayush71071/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## Memoization
 |  |
 | ------- |
