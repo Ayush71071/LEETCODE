@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayush71071/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush71071/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Ayush71071/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Ayush71071/LEETCODE/tree/master/0044-wildcard-matching) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ayush71071/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ayush71071/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ayush71071/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Ayush71071/LEETCODE/tree/master/0044-wildcard-matching) |
 ## Trie
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ayush71071/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ayush71071/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ayush71071/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Ayush71071/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Ayush71071/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ayush71071/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush71071/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush71071/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Ayush71071/LEETCODE/tree/master/0044-wildcard-matching) |
 | [1386-cinema-seat-allocation](https://github.com/Ayush71071/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## Memoization
 |  |
